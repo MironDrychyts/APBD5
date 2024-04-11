@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\APBD5\\Tutorial4\\Tutorial4.csproj",
-      "projectName": "Tutorial4",
-      "projectPath": "E:\\APBD5\\Tutorial4\\Tutorial4.csproj",
+      "projectUniqueName": "E:\\APBD5\\APBD\\APBD.csproj",
+      "projectName": "APBD",
+      "projectPath": "E:\\APBD5\\APBD\\APBD.csproj",
       "packagesPath": "C:\\Users\\oxyfa\\.nuget\\packages\\",
-      "outputPath": "E:\\APBD5\\Tutorial4\\obj\\",
+      "outputPath": "E:\\APBD5\\APBD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\oxyfa\\AppData\\Roaming\\NuGet\\NuGet.Config"

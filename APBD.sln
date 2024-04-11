@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial4", "Tutorial4\Tutorial4.csproj", "{98A96C35-83EB-420D-A097-49AE880B53E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APBD", "APBD\APBD.csproj", "{98A96C35-83EB-420D-A097-49AE880B53E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
